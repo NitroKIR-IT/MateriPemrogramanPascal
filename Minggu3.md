@@ -11,6 +11,7 @@ Pascal mempunyai beragam tipe data. Ini adalah daftar tipe data yang dapat dipak
 * double: angka berkoma, presisi double
 * real: angka berkoma
 * boolean: berisi true atau false
+
 ## Percabangan: If
 ### If simple
 If digunakan sebagai percabangan kode (jika begini maka begitu)
