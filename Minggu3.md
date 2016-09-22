@@ -82,5 +82,5 @@ Ada 4 operasi boolean yang sering dipakai, yaitu
 | F | T | T       |
 | F | F | F       |
 ## Operasi perbandingan
-Operasi perbandingan seperti pada matematika, yaitu < (kurang dari), >(lebih dari), = (sama dengan), != (tidak sama dengan), <= (kurang dari/sama dengan), >= (lebih dari/sama dengan)
-
+Operasi perbandingan seperti pada matematika, yaitu < (kurang dari), >(lebih dari), = (sama dengan), != (tidak sama dengan), <= (kurang dari/sama dengan), >= (lebih dari/sama dengan), 
+seperti `test < a` atau `1 = 1`
