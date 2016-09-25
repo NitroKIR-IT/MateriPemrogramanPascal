@@ -6,7 +6,7 @@ Ini adalah materi untuk bahasa pemrograman Pascal, untuk yang belum mendapatkan 
 * [Minggu 3](Minggu3.md)
 * [Minggu 4](Minggu4.md)
 * [Minggu 5](Minggu5.md)
-* Array
+* [Array](Array.md)
 
 ## Pertanyaan?
 Jika ada pertanyaan, bukalah sebuah issue baru di repository ini.
