@@ -12,6 +12,7 @@ Dengan catatan:
 * `a`: nama variabel
 * `array[1..15]`: menandakan panjang dari array dan indeks yang berlaku, contoh di sini indeks yang berlaku dari 1 sampai 15
 * `integer`: menunjukan tipe.
+
 ## Akses ke dalam array
 Untuk mengakses salah satu nilai pada array, kita juga melakukannya seperti variabel biasa, hanya saya kita memerlukan sebuah indeks.
 
