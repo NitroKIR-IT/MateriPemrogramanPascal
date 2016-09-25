@@ -8,3 +8,5 @@ Ini adalah materi untuk bahasa pemrograman Pascal, untuk yang belum mendapatkan 
 * [Minggu 5](Minggu5.md)
 * Array
 
+## Pertanyaan?
+Jika ada pertanyaan, bukalah sebuah issue baru di repository ini.
