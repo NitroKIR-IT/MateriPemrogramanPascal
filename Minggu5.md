@@ -38,7 +38,7 @@ begin
     cot(5);
 end.
 ```
-Program ini akan menghasilkan output `cot5`, yaitu kata 'cot' ditambah dengan isi variabel x, yaitu 5 (dari pemanggilan function).
+Program ini akan menghasilkan output `cot5`, yaitu kata `cot` ditambah dengan isi variabel x, yaitu 5 (dari pemanggilan function).
 
 ### Variabel subprogram
 Didalam subprogram juga dapat mendeklarasikan variabel. Contoh:
@@ -116,7 +116,7 @@ Contoh pemanggilan
 ```
 writeln(length('cot'));
 ```
-akan mengeluarkan 3 (panjang dari string 'cot')
+akan mengeluarkan `3` (panjang dari string 'cot')
 #### pos(T,S)
 Mengembalikan posisi substring T dalam string S.
 Mengembalikan 0 jika tidak ditemukan substring T.
@@ -124,14 +124,14 @@ Contoh pemanggilan
 ```
 writeln(pos('cot','bacot');
 ```
-akan mengeluarkan angka 3 (posisi dari string 'cot' dalam 'bacot').
+akan mengeluarkan angka `3` (posisi dari string 'cot' dalam 'bacot').
 #### copy(S, pos, cnt)
 Mengembalikan potongan string S yang dimulai dari posisi pos sepanjang cnt karakter.
 Contoh pemanggilan
 ```
 writeln(copy('fumiomurakami',5,3);
 ```
-akan menngeluarkan string 'omu'.
+akan menngeluarkan string `omu`
 
 #### delete(S,pos,cnt)
 Adalah prosedur yang akan menghapus bagian dari string S dimulai dari posisi pos sepanjang cnt karakter.
@@ -145,7 +145,7 @@ begin
     writeln(s);
 end.
 ```
-Program akan mengeluarkan string 'ketikaenagihuangkas'.
+Program akan mengeluarkan string `ketikaenagihuangkas`.
 
 #### insert(T,S,pos);
 Adalah prosedur yang akan memasukan string T di string S pada posisi pos.
@@ -158,5 +158,5 @@ begin
     writeln(s);
 end.
 ```
-Program akan mengeluarkan string 'ketikatitusmenagihuangkas' saat dijalankan.
+Program akan mengeluarkan string `ketikatitusmenagihuangkas` saat dijalankan.
 
